@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Wtyczka pytesta do generowania raportów HTML
 Name:		python-pytest-html
 # keep 1.x here for python2 support
 Version:	1.22.1
-Release:	1
+Release:	2
 License:	MPL v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-html/
